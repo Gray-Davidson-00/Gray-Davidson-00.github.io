@@ -1,22 +1,3 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-	<title> Countdown To Load</title>
-	<link rel="stylesheet" type="text/css" href="clock_style.css">
-	<meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<body>
-	<h1>
-		<blink>Towers of Crete Ships to Playa in:</blink>
-	</h1>
-
-<!--     <h3 class="blink-two">
-		<blink>You happy now Zach!?</blink>
-    </h3>
- -->
-	<p id="demo" class="blink-one"></p>
-		<script src="countdown.js"></script>
-<!-- 		<script>
 		// Set the date we're counting down to
 		var countDownDate = new Date("Aug 19, 2019 10:00:00").getTime();
 
@@ -45,7 +26,3 @@
 		    document.getElementById("demo").innerHTML = "EXPIRED";
 		  }
 		}, 1000);
-		</script>
- -->
-</body>
-</html>
